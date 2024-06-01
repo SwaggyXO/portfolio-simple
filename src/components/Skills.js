@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import LiIcon from "./LiIcon";
+import UnderConstruction from "./UnderConstruction";
 
 const Skill = ({ name, x, y }) => {
   return (
@@ -47,6 +48,9 @@ const Skills = () => {
         <Skill name="Python" x="-24vw" y="18vw" />
         <Skill name="SQL" x="17vw" y="17vw" />
       </div> */}
+      <div className="w-fit h-auto mx-auto my-auto">
+        <UnderConstruction></UnderConstruction>
+      </div>
     </>
   );
 };

@@ -71,20 +71,11 @@ const projects = () => {
           <div className="grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0">
             <div className="col-span-12">
               <Project
-                title="ThreeJS Quote Cloud"
-                img={QuoteCloud}
-                summary="A quote made of 3D Text floating in a cloud of randomly generated geometry."
-                link="https://quote-cloud.vercel.app/"
-                github="https://github.com/bwilliams91/quote-cloud"
-              />
-            </div>
-            <div className="col-span-12">
-              <Project
-                title="Reflection Material ThreeJS"
-                img={ReflectionMat}
-                summary="Experimenting with geometries and materials in threejs"
-                link="https://materialexp.netlify.app/"
-                github="https://github.com/bwilliams91/material-experimentation"
+                title=""
+                img=
+                summary=""
+                link=""
+                github=""
               />
             </div>
           </div>
