@@ -1,6 +1,6 @@
 ### Simple portfolio website built using Next.js
 
-### [Live Site](/)
+### [Live Site](https://devashish-portfolio.vercel.app/)
 
 Currently, the website is a work in progress. I plan to design new pages which I have in mind, after finishing with the skills and projects section.
 
