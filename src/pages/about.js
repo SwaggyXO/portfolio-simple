@@ -69,7 +69,7 @@ const about = () => {
                 In my leisure time, I jam to music and keep my guitar skills sharp. I also enjoy playing video games which I fit in my schedule whenever I can.
               </p>
               <p className="font-medium">
-                I try to maintain a healthy work-life balance by working out on a regular basis, even if it's just a 30-minute walk.
+                I try to maintain a healthy work-life balance by working out on a regular basis, even if its just a 30-minute walk.
                 Not only that, I make sure to spend time with my family and friends, as they are the ones who help me stay within the bounds of sanity.
               </p>
             </div>
